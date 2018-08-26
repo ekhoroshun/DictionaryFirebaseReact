@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:700');
+
+html, body {
+  	-webkit-font-smoothing: antialiased;
+    height: 100%;
+    //background-image: url('./pic.jpg');
+    background-image: linear-gradient(to right, #3ab5b0 0%, #3d99be 31%, #56317a 100%);
+    
+}
+
+.form-control{
+  width:50%;
+  box-shadow: 5px 7px 8px rgba(0, 0, 0, 0.3);
+}
+
+.forEng{
+  width: 40%;
+}
+.forNor{
+  width: 40%;
+}
+
+.headings{
+  font-family: 'Oswald', sans-serif;
+  font-size: 40px;
+}
+.headingMain{
+  font-family: 'Oswald', sans-serif;
+  font-size: 50px;
+}
